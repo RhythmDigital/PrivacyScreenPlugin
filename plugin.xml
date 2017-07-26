@@ -15,7 +15,7 @@
 
 		<source-file src="src/android/PrivacyScreenPlugin.java" target-dir="src/org/devgeeks/privacyscreen"/>
 	</platform>
-
+<!-- 
 	<platform name="ios">
 
     <config-file parent="/*" target="config.xml">
@@ -27,5 +27,5 @@
 
 		<source-file src="src/ios/PrivacyScreenPlugin.h"/>
 		<source-file src="src/ios/PrivacyScreenPlugin.m"/>
-	</platform>
+	</platform> -->
 </plugin>
